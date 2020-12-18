@@ -5,7 +5,7 @@ R.Dhimas Winendra
 
 Aplikasi POS & Penjurnalan otomatis pada toko sparepart Wistara Berbasis Web
 
-Master data:
+Master Data
 - Barang
 - Kategori barang
 - User
