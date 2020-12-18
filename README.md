@@ -1,4 +1,4 @@
-# Tugas-Proyek-Pemrograman
+# Wistara_Autoparts
 Aplikasi POS & Penjurnalan otomatis pada toko sparepart Wistara Berbasis Web
 
 R.Dhimas Winendra
